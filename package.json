@@ -1,0 +1,20 @@
+{
+  "name": "is-wxml",
+  "version": "1.0.0",
+  "description": "Check whether the content is wxml",
+  "main": "index.js",
+  "repository": "https://github.com/kimochg/is-wxml",
+  "author": "Cheng Liu <liucheng.tech@outlook.com>",
+  "license": "MIT",
+  "keywords": [
+    "wxml",
+    "wechat"
+  ],
+  "scripts": {
+    "test": "node __test__"
+  },
+  "homepage": "https://github.com/kimochg/is-wxml#readme",
+  "dependencies": {
+    "wxml-tags": "^1.0.1"
+  }
+}
